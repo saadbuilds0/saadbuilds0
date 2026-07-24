@@ -24,4 +24,7 @@ High-ticket sales teams that live in their CRM: coaching groups, real estate tea
 
 ## Links
 
-[bluereacher.com](https://bluereacher.com) · [saad@bluereacher.com](mailto:saad@bluereacher.com)
+[![BlueReacher](https://img.shields.io/badge/BlueReacher-007AFF?style=for-the-badge&logoColor=white)](https://bluereacher.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saadscales)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/saadscales)
+[![Email](https://img.shields.io/badge/Email-1D1D1F?style=for-the-badge&logoColor=white)](mailto:saad@bluereacher.com)
