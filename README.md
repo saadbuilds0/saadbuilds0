@@ -2,31 +2,15 @@
 
 # Saad Khan 💬
 
-**Founder & CEO of [BlueReacher](https://bluereacher.com)**, the world's first AI iMessage platform.
+Founder of [Blue Reacher](https://bluereacher.com). We let sales teams send real iMessages straight from their CRM, so outreach lands as a blue bubble instead of a spam-filtered SMS.
 
-Sales teams send authentic blue-bubble iMessages straight from their CRM. No A2P registration, no spam-filtered SMS, no green bubbles. Conversations, not campaigns.
+I'm not a developer by trade. I run the company, and most of what I build I build with AI: internal tools, dashboards, and automations that keep a one-person operation moving faster than it should be able to. This account is where some of that ends up.
 
-## Why teams switch
-
-Your SMS gets ignored. Your iMessages get replies. Teams running BlueReacher lift conversion across the whole funnel, not one stage of it:
-
-- **30%+ reply rate**, against a 2% email average
-- **98% open rate** on iMessage
-- **80%+ show-up rate** on booked calls, against 50% on SMS
-- **2-3x higher conversion rates** end to end
-- **5x faster sales cycle** compared to cold email
-
-## Built for
-
-High-ticket sales teams that live in their CRM: coaching groups, real estate teams, and agencies. Dedicated lines, white-glove setup, live in under 2 business days, 99.9% uptime.
-
-## Ask me about
-
-`B2B outbound` · `iMessage marketing` · `CRM-native messaging` · `reply rates` · `show rates` · `sales conversion` · `offer design`
+Currently thinking about B2B outbound, messaging that actually gets replies, and how far you can push a small team with good systems.
 
 ## Links
 
-[![BlueReacher](https://img.shields.io/badge/BlueReacher-007AFF?style=for-the-badge&logoColor=white)](https://bluereacher.com)
+[![Blue Reacher](https://img.shields.io/badge/Blue%20Reacher-007AFF?style=for-the-badge&logoColor=white)](https://bluereacher.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saadscales)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/saadscales)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/saadscales/)
