@@ -2,9 +2,9 @@
 
 # Saad Khan 💬
 
-Founder of [Blue Reacher](https://bluereacher.com). We let sales teams send real iMessages straight from their CRM, so outreach lands as a blue bubble instead of a spam-filtered SMS.
+Founder of [Blue Reacher](https://bluereacher.com). We let sales teams send real iMessages straight from their CRM, so outreach lands as a blue bubble instead of a spam-filtered A2P SMS.
 
-I'm not a developer by trade. I run the company, and most of what I build I build with AI: internal tools, dashboards, and automations that keep a one-person operation moving faster than it should be able to. This account is where some of that ends up.
+I'm not a developer by trade. I run the company, and most of what I build is internal tooling for efficiency: internal tools, dashboards, and automations that keep operations tight and moving fast. This account is where some of that ends up.
 
 Currently thinking about B2B outbound, messaging that actually gets replies, and how far you can push a small team with good systems.
 
