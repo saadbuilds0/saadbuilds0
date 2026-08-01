@@ -1,4 +1,6 @@
-# Saad Khan 🔵
+<img src="https://raw.githubusercontent.com/saadbuilds0/saadbuilds0/main/assets/header.jpg" alt="Blue Reacher" width="100%" />
+
+# Saad Khan 💬
 
 **Founder & CEO of [BlueReacher](https://bluereacher.com)**, the world's first AI iMessage platform.
 
